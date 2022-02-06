@@ -6,9 +6,8 @@
   Projeto criado com o intuito de mostrar meus conhecimentos ao decorrer da minha carreira.
 </h4>
 
-![Resultado final do projeto](./assets/CEP.png)
+![Resultado final do projeto](https://user-images.githubusercontent.com/86435195/152667040-114273ff-44ff-4186-879b-964dab106baf.png)
 
-<img src="./assets/CEP.png" />
 
 ## ❓ O que é? e como usar?
 
